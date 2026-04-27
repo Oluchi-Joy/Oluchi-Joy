@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there 👋
+- I am currently learning and improving on my skills
+- I am open to collaborations and opportunities to improve
+- I enjoyed learning new things
+- I love reading❤️
 
 <!--
 **Oluchi-Joy/Oluchi-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
